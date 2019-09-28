@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <Timer name="Nirav"/>
+      <Timer name="Timer App"/>
       </header>
     </div>
   );
