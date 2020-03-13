@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Timer name="Timer App" />
-        <h1> Change made in sandbox</h1>
+       
       </header>
     </div>
   );
